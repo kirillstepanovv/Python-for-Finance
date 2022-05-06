@@ -1,3 +1,7 @@
-Kindly note that the current code is still under development, and it will be improved. 
-Thank you!
-Kirill Stepanov 
+Simple Linear Model for full out of sample prediction 
+Based on Macro data from FRED and Option Derived Signals from papers published by Grigory Vilkov 
+Two step FamaMacbeth process was used to estimate the factor betas, where necessary 
+The algorithm improves the Sharpe Ratio by 1.1% over the benchmark - the value weighted portfolio 
+Maximum Sharpe Ratio was used for portfolio optimisation 
+The outperformance is attributed to lower average and maximum drawdowns  
+
